@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","mappings":";;;;;AAAAA,KAAK,CAAC,OAAO,CAAC,C","sources":["webpack://langate_test/./src/js/main.js"],"sourcesContent":["alert('works');"],"names":["alert"],"sourceRoot":""}

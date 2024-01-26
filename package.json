@@ -1,0 +1,22 @@
+{
+  "name": "langate_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "npx tailwindcss -i ./src/css/style.css -o ./assets/css/style.css --watch"
+  },
+  "author": "Polessky Vlad",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.9.1",
+    "postcss": "^8.4.33",
+    "postcss-loader": "^8.0.0",
+    "postcss-preset-env": "^9.3.0",
+    "style-loader": "^3.3.4",
+    "tailwindcss": "^3.4.1",
+    "webpack": "^5.90.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
